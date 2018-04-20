@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.5.1" timestamp="2018-04-20T00:42:02.125">
+<file name="/home/flandalanda/Desktop/Examen/src/main/java/mx/com/itam/adsi/ejercicio/CuentaLineas.java">
+<violation beginline="11" endline="11" begincolumn="20" endcolumn="27" rule="UnusedPrivateField" ruleset="Unused Code" package="mx.com.itam.adsi.ejercicio" class="CuentaLineas" variable="fileName" externalInfoUrl="https://pmd.github.io/pmd-5.5.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateField" priority="3">
+Avoid unused private fields such as 'fileName'.
+</violation>
+<violation beginline="28" endline="28" begincolumn="17" endcolumn="21" rule="UnusedLocalVariable" ruleset="Unused Code" package="mx.com.itam.adsi.ejercicio" class="CuentaLineas" method="cuenta" variable="index" externalInfoUrl="https://pmd.github.io/pmd-5.5.1/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'index'.
+</violation>
+</file>
+</pmd>
